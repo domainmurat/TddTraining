@@ -1,0 +1,9 @@
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\bin\Debug\TddTraining.DataAccess.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\bin\Debug\TddTraining.DataAccess.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\obj\Debug\TddTraining.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\obj\Debug\TddTraining.DataAccess.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\obj\Debug\TddTraining.DataAccess.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\obj\Debug\TddTraining.DataAccess.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\bin\Debug\TddTraining.Entities.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\bin\Debug\TddTraining.Entities.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.DataAccess\obj\Debug\TddTraining.DataAccess.csproj.CopyComplete

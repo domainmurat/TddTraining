@@ -1,0 +1,11 @@
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\bin\Debug\TddTraining.Business.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\bin\Debug\TddTraining.Business.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\obj\Debug\TddTraining.Business.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\obj\Debug\TddTraining.Business.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\obj\Debug\TddTraining.Business.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\bin\Debug\TddTraining.Entities.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\bin\Debug\TddTraining.Entities.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\obj\Debug\TddTraining.Business.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\obj\Debug\TddTraining.Business.csproj.CopyComplete
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\bin\Debug\TddTraining.DataAccess.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.Business\bin\Debug\TddTraining.DataAccess.pdb

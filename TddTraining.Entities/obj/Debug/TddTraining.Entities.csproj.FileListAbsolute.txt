@@ -1,0 +1,5 @@
+C:\Users\murat\source\repos\TddTraining\TddTraining.Entities\bin\Debug\TddTraining.Entities.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.Entities\bin\Debug\TddTraining.Entities.pdb
+C:\Users\murat\source\repos\TddTraining\TddTraining.Entities\obj\Debug\TddTraining.Entities.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\TddTraining\TddTraining.Entities\obj\Debug\TddTraining.Entities.dll
+C:\Users\murat\source\repos\TddTraining\TddTraining.Entities\obj\Debug\TddTraining.Entities.pdb
